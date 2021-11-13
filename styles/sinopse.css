@@ -1,0 +1,22 @@
+h1 {
+    font-family: Arial;
+    color: black;
+    text-align: center;
+}
+
+value {
+    font-family: Arial;
+}
+
+p {
+    font-family: Arial;
+    font-size: 12pt;
+    text-align: justify;
+    width: 50%;
+}
+
+h2 {
+    font-family: Arial;
+    font-size: 16pt;
+    color: black;
+}

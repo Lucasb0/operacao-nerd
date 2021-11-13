@@ -1,0 +1,111 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-family: Arial;
+    color: white;
+}
+
+h2 {
+    font-family: Arial;
+    font-size: 16pt;
+    color: red;
+}
+
+value {
+    font-family: Arial;
+}
+
+#unorderedlist1 {
+    font-family: Arial;
+    font-size: 14pt;
+    color: white;
+}
+
+#unorderedlist2 {
+    font-family: Arial;
+    font-size: 14pt;
+    color: white;
+}
+
+#orderedlist1 {
+    font-family: Arial;
+    font-size: 14pt;
+    color: #87CEFA;
+}
+
+#orderedlist2 {
+    font-family: Arial;
+    font-size: 14pt;
+    color: #87CEFA;
+}
+
+.avengers {
+    font-family: Arial;
+    font-size: 14pt;
+    color: red;
+}
+
+#subtitle {
+    font-family: Arial;
+    font-size: 16pt;
+    color: white;
+}
+
+#table1 {
+    font-family: Arial;
+    font-size: 14pt;
+    color: cyan;
+    width: 30%;
+}
+
+#table2 {
+    font-family: Arial;
+    font-size: 14pt;
+    color: cyan;
+    width: 30%;
+}
+
+#table3 {
+    font-family: Arial;
+    font-size: 14pt;
+    color: cyan;
+    width: 30%;
+}
+
+#table4 {
+    font-family: Arial;
+    font-size: 14pt;
+    color: cyan;
+    width: 30%;
+}
+
+#Link {
+    font-family: Arial;
+    font-size: 14pt;
+    color: cyan;
+}
+
+#Sinopse {
+    font-family: Arial;
+    font-size: 14pt;
+    color: cyan;
+}
+
+#mensage {
+    font-family: Arial;
+    font-size: 14pt;
+    color: cyan;
+}
+
+#InternalLink {
+    font-family: Arial;
+    font-size: 14pt;
+    color: white;
+}
